@@ -1,7 +1,7 @@
 # Jaideep Gupta
 
 **Data Analyst · Tableau Developer · Educator · Freelance Consultant**  
-M.Sc. Economics, IIT Roorkee &nbsp;·&nbsp; UGC NET (Economics)
+M.Sc. Economics, IIT Roorkee &nbsp;·&nbsp; UGC NET (Economics) &nbsp;·&nbsp; B.Sc. Statistics & Mathematics, CSJMU
 
 📧 jaideepg.jg@gmail.com &nbsp;·&nbsp; 📍 India &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/guptajaideep) &nbsp;·&nbsp; [YouTube – Stats with JD](https://www.youtube.com/channel/UCMU9RMjwpglKIhV7HZ0m_5w) &nbsp;·&nbsp; [Facebook](https://facebook.com/econicstat)
 
