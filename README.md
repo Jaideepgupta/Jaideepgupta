@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jaideep Gupta
+s# 👋 Hi, I'm Jaideep Gupta
 
 🎓 Economist | 📊 Data Analyst | 📘 Educator  
 💼 Freelance Consultant | 🧠 UGC NET (Economics) | 💻 Power BI | Excel | SQL | Tableau | R | Python  
@@ -43,7 +43,7 @@
 ### 📘 Featured Projects
 - 📊 [Power BI Sales Dashboard](https://github.com/Jaydee778/Business_Insights_360)  
 - 📈 [Excel Financial Report](https://github.com/Jaydee778/Excel-Sales-Analytics)  
-- 📉 [sales-dashboard-tableau](https://github.com/Jaideepgupta/sales-dashboard-tableau)  
+- 📉 [Pharmacy sales-dashboard-tableau](https://github.com/Jaideepgupta/Pharmacy-sales-dashboard)  
 - 🎲 [Python Casino Games](https://github.com/Jaydee778/Casino-Odyssey/tree/main)  
 - 🎓 [Stats with JD – YouTube Learning Hub](https://www.youtube.com/channel/UCMU9RMjwpglKIhV7HZ0m_5w)
 
