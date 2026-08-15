@@ -1,6 +1,6 @@
 # Jaideep Gupta
 
-**Tableau Developer · Data Analyst**
+**Tableau Developer · Data Analyst**  
 M.Sc. Economics, IIT Roorkee · B.Sc. Statistics & Mathematics, CSJMU
 
 📧 jaideepg.jg@gmail.com · 📍 India · [LinkedIn](https://linkedin.com/in/guptajaideep) · [Portfolio](https://codebasics.io/portfolio/Jaideep-Gupta) · [Tableau Public](https://public.tableau.com/app/profile/jaideep.gupta7070/vizzes)
@@ -25,7 +25,15 @@ M.Sc. Economics, IIT Roorkee · B.Sc. Statistics & Mathematics, CSJMU
 **Programming & Databases**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Python Analytics**
+
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 **Analytics & Tools**
 
@@ -36,6 +44,14 @@ M.Sc. Economics, IIT Roorkee · B.Sc. Statistics & Mathematics, CSJMU
 ---
 
 ## Featured Projects
+
+### 🏨 [AtliQ Hotels — Hospitality EDA](https://github.com/Jaideepgupta/hospitality-eda-atliq-hotels) — Python, Pandas, NumPy, Matplotlib, Seaborn
+
+Exploratory Data Analysis project analyzing hotel booking, occupancy, revenue, customer ratings, and cancellation patterns across four Indian cities. Performed data cleaning, feature engineering, descriptive analysis, and business-oriented visualization to identify differences in city and room-class performance, weekday vs. weekend demand, booking-channel contribution, and revenue leakage from cancellations and no-shows.
+
+🔗 [GitHub Repo](https://github.com/Jaideepgupta/hospitality-eda-atliq-hotels)
+
+---
 
 ### 💊 [Pharmacy Sales Dashboard](https://github.com/Jaideepgupta/Pharmacy-sales-dashboard) — Tableau, Excel
 
@@ -49,7 +65,7 @@ Interactive Tableau dashboard for pharma sales managers tracking field rep perfo
 
 Multi-view Power BI dashboard (Finance, Sales, Marketing, Supply Chain, Executive) for AtliQ Hardware — a consumer electronics company operating across **27+ markets** via retail, direct, and distributor channels. Analyzed **1M+ transaction records** with a star-schema data model, tracking net sales, gross margin %, and forecast accuracy in a single platform.
 
-🔗 [Live Dashboard](https://surl.li/dbxteg) · [GitHub Repo](https://github.com/Jaideepgupta/Business_Insights_360)
+🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzBiNWE5NTgtYWRkYi00MmZlLWE3NmQtMzIzYmJmNzQzMWFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) · [GitHub Repo](https://github.com/Jaideepgupta/Business_Insights_360)
 
 ---
 
