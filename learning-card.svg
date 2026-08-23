@@ -1,0 +1,28 @@
+<svg width="1000" height="144" viewBox="0 0 1000 144" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <linearGradient id="bgGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0d1117"/>
+    <stop offset="100%" stop-color="#12161c"/>
+  </linearGradient>
+</defs>
+
+<rect x="0" y="0" width="1000" height="144" rx="16" fill="url(#bgGrad3)" stroke="#242a33" stroke-width="1.5"/>
+<text x="32" y="38" font-family="Verdana, Arial, sans-serif" font-size="20" font-weight="700" fill="#e8eaed">🌱 <tspan fill="#2ee6a6">Currently Learning</tspan></text>
+<line x1="32" y1="50" x2="968" y2="50" stroke="#242a33" stroke-width="1"/>
+<rect x="32.0" y="64.0" width="96.2" height="34" rx="8" fill="#0d1117" stroke="#29B5E8" stroke-width="1.3" stroke-dasharray="4 2"/>
+<text x="80.1" y="85.5" font-family="Verdana, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#29B5E8" text-anchor="middle">Snowflake</text>
+<rect x="138.2" y="64.0" width="104.0" height="34" rx="8" fill="#0d1117" stroke="#FF3621" stroke-width="1.3" stroke-dasharray="4 2"/>
+<text x="190.2" y="85.5" font-family="Verdana, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#FF3621" text-anchor="middle">Databricks</text>
+<rect x="252.2" y="64.0" width="49.4" height="34" rx="8" fill="#0d1117" stroke="#FF694B" stroke-width="1.3" stroke-dasharray="4 2"/>
+<text x="276.9" y="85.5" font-family="Verdana, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#FF694B" text-anchor="middle">dbt</text>
+<rect x="311.6" y="64.0" width="119.6" height="34" rx="8" fill="#0d1117" stroke="#E25A1C" stroke-width="1.3" stroke-dasharray="4 2"/>
+<text x="371.4" y="85.5" font-family="Verdana, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#E25A1C" text-anchor="middle">Apache Spark</text>
+<rect x="441.2" y="64.0" width="135.2" height="34" rx="8" fill="#0d1117" stroke="#2FA4E7" stroke-width="1.3" stroke-dasharray="4 2"/>
+<text x="508.8" y="85.5" font-family="Verdana, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#2FA4E7" text-anchor="middle">Apache Airflow</text>
+<rect x="586.4" y="64.0" width="65.0" height="34" rx="8" fill="#0d1117" stroke="#50E6FF" stroke-width="1.3" stroke-dasharray="4 2"/>
+<text x="618.9" y="85.5" font-family="Verdana, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#50E6FF" text-anchor="middle">Azure</text>
+<rect x="661.4" y="64.0" width="49.4" height="34" rx="8" fill="#0d1117" stroke="#FF9900" stroke-width="1.3" stroke-dasharray="4 2"/>
+<text x="686.1" y="85.5" font-family="Verdana, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#FF9900" text-anchor="middle">AWS</text>
+<text x="32" y="128.0" font-family="Verdana, Arial, sans-serif" font-size="12.5" font-style="italic" fill="#9aa4b2">Building toward pipelines that feed the dashboards — not just the dashboards themselves.</text>
+</svg>
