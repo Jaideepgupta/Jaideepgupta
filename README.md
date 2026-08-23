@@ -4,22 +4,22 @@
 
 ### I turn messy data into dashboards executives actually trust.
 
-[![Email](https://img.shields.io/badge/Email-jaideepg.jg%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaideepg.jg@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-guptajaideep-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guptajaideep)
-[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-Profile-1D6FA4?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/jaideep.gupta7070/vizzes)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=codeforces&logoColor=white)](https://codebasics.io/portfolio/Jaideep-Gupta)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jaideepg.jg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guptajaideep)
+[![Tableau Public](https://img.shields.io/badge/-Tableau%20Public-1A73E8?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/jaideep.gupta7070/vizzes)
+[![Portfolio](https://img.shields.io/badge/-🌐%20Portfolio-6E40C9?style=flat-square)](https://codebasics.io/portfolio/Jaideep-Gupta)
 
 <sub>📍 India &nbsp;·&nbsp; M.Sc. Economics, IIT Roorkee &nbsp;·&nbsp; B.Sc. Statistics & Mathematics, CSJMU</sub>
 
 <br>
 
-<a href="#about">About</a> ·
-<a href="#stack">Stack</a> ·
-<a href="#highlights">Highlights</a> ·
-<a href="#projects">Projects</a> ·
-<a href="#experience">Experience</a> ·
-<a href="#learning">Currently Learning</a> ·
-<a href="#connect">Connect</a>
+[![About](https://img.shields.io/badge/-About-2ee6a6?style=flat-square)](#about)
+[![Stack](https://img.shields.io/badge/-Stack-2ee6a6?style=flat-square)](#stack)
+[![Highlights](https://img.shields.io/badge/-Highlights-2ee6a6?style=flat-square)](#highlights)
+[![Projects](https://img.shields.io/badge/-Projects-2ee6a6?style=flat-square)](#projects)
+[![Experience](https://img.shields.io/badge/-Experience-2ee6a6?style=flat-square)](#experience)
+[![Currently Learning](https://img.shields.io/badge/-Currently%20Learning-2ee6a6?style=flat-square)](#learning)
+[![Connect](https://img.shields.io/badge/-Connect-2ee6a6?style=flat-square)](#connect)
 
 </div>
 
@@ -35,56 +35,7 @@ I'm now expanding from BI into **Data Engineering** — learning Snowflake, dbt,
 
 ## 🧰 Stack <a id="stack"></a>
 
-<table>
-<tr>
-<td valign="top" width="25%">
-
-**BI & Visualization**
-![Tableau](https://img.shields.io/badge/Tableau-1D6FA4?style=flat-square&logo=tableau&logoColor=white)
-![Tableau Cloud](https://img.shields.io/badge/Tableau%20Cloud-1D6FA4?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-</td>
-<td valign="top" width="25%">
-
-**Data Engineering & Cloud**
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-006D8F?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-</td>
-<td valign="top" width="25%">
-
-**Programming & Databases**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-</td>
-<td valign="top" width="25%">
-
-**Analytics & Ecosystem**
-![Salesforce Data Cloud](https://img.shields.io/badge/Salesforce%20Data%20Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Tableau Next](https://img.shields.io/badge/Tableau%20Next-1D6FA4?style=flat-square&logo=tableau&logoColor=white)
-![Mixpanel](https://img.shields.io/badge/Mixpanel-7A04EB?style=flat-square&logo=mixpanel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<sub>**Data engineering concepts:** data modelling · orchestration · ingestion · Tableau ↔ warehouse integrations</sub>
+<img src="./stack-card.svg" alt="Stack: BI & Visualization, Data Engineering & Cloud, Programming & Databases, Analytics & Ecosystem" width="100%" />
 
 <br>
 
@@ -215,15 +166,7 @@ P&L statements by fiscal year, month, and market across 15+ markets and 200+ cus
 
 ## 🌱 Currently Learning <a id="learning"></a>
 
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-Building toward pipelines that feed the dashboards — not just the dashboards themselves.
+<img src="./learning-card.svg" alt="Currently learning: Snowflake, Databricks, dbt, Apache Spark, Apache Airflow, Azure, AWS" width="100%" />
 
 <br>
 
