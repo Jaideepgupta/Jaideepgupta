@@ -145,6 +145,8 @@ Exploratory analysis of hotel booking, occupancy, revenue, and cancellation patt
 ### 💊 Pharmacy Sales Dashboard
 `Tableau` `Excel`
 
+[![Pharmacy Dashboard Preview](https://public.tableau.com/static/images/Ph/PharmacyDashboard_5_17696851082490/PharmacyPerformance/1.png)](https://jaideepgupta.github.io/Jaideepgupta/pharmacy-dashboard.html)
+
 Interactive dashboard for pharma sales managers across 8 analytical views — field rep performance, doctor engagement, effort-vs-output efficiency, target achievement, and call-outcome quality.
 
 **[→ Live Dashboard](https://jaideepgupta.github.io/Jaideepgupta/pharmacy-dashboard.html)** &nbsp;·&nbsp; **[→ Repo](https://github.com/Jaideepgupta/Pharmacy-sales-dashboard)**
