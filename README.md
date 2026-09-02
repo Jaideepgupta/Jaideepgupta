@@ -3,7 +3,7 @@
 <img src="./profile-banner.svg" alt="Jaideep Gupta — Tableau Developer, Data Analyst, Data Engineering (Learning)" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=2EE6A6&center=true&vCenter=true&width=800&height=30&lines=I+turn+messy+data+into+dashboards+executives+trust;4%2B+years+in+BI+%7C+50%2B+dashboards+shipped;Now+building+the+pipelines+behind+the+dashboards" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=3ECF8E&center=true&vCenter=true&width=800&height=30&lines=I+turn+messy+data+into+dashboards+executives+trust;4%2B+years+in+BI+%7C+50%2B+dashboards+shipped;Now+building+the+pipelines+behind+the+dashboards" alt="Typing SVG" />
 </a>
 
 <br>
@@ -19,13 +19,13 @@
 <br>
 
 <p>
-<a href="#about"><img src="https://img.shields.io/badge/About-2ee6a6?style=flat-square" /></a>
-<a href="#stack"><img src="https://img.shields.io/badge/Stack-2ee6a6?style=flat-square" /></a>
-<a href="#highlights"><img src="https://img.shields.io/badge/Highlights-2ee6a6?style=flat-square" /></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-2ee6a6?style=flat-square" /></a>
-<a href="#experience"><img src="https://img.shields.io/badge/Experience-2ee6a6?style=flat-square" /></a>
-<a href="#learning"><img src="https://img.shields.io/badge/Currently%20Learning-2ee6a6?style=flat-square" /></a>
-<a href="#connect"><img src="https://img.shields.io/badge/Connect-2ee6a6?style=flat-square" /></a>
+<a href="#about"><img src="https://img.shields.io/badge/About-3ecf8e?style=flat-square" /></a>
+<a href="#stack"><img src="https://img.shields.io/badge/Stack-3ecf8e?style=flat-square" /></a>
+<a href="#highlights"><img src="https://img.shields.io/badge/Highlights-3ecf8e?style=flat-square" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-3ecf8e?style=flat-square" /></a>
+<a href="#experience"><img src="https://img.shields.io/badge/Experience-3ecf8e?style=flat-square" /></a>
+<a href="#learning"><img src="https://img.shields.io/badge/Currently%20Learning-3ecf8e?style=flat-square" /></a>
+<a href="#connect"><img src="https://img.shields.io/badge/Connect-3ecf8e?style=flat-square" /></a>
 </p>
 
 </div>
@@ -280,6 +280,6 @@ Open to connecting — always happy to talk Tableau, data modeling, or the BI-to
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Jaideepgupta&style=flat-square&color=2ee6a6&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Jaideepgupta&style=flat-square&color=3ecf8e&label=Profile+Views" alt="Profile views" />
 
 </div>
