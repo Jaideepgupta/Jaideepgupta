@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pharmacy Sales Dashboard — Jaideep Gupta</title>
+<style>
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: #0d1117;
+    color: #e6edf3;
+  }
+  .wrap {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 32px 20px 60px;
+  }
+  h1 {
+    font-size: 1.6rem;
+    margin-bottom: 4px;
+  }
+  p.sub {
+    color: #9da7b3;
+    margin-top: 0;
+    margin-bottom: 24px;
+  }
+  a.back {
+    color: #58a6ff;
+    text-decoration: none;
+    font-size: 0.9rem;
+  }
+  a.back:hover { text-decoration: underline; }
+  .viz-container {
+    width: 100%;
+    /* Tableau's own script sets height dynamically once it loads,
+       but we reserve space up front to avoid layout jump */
+    min-height: 900px;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #161b22;
+  }
+  .tableauPlaceholder { width: 100% !important; }
+  object.tableauViz { width: 100% !important; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="index.html">&larr; Back to portfolio</a>
+  <h1>Pharmacy Sales Dashboard</h1>
+  <p class="sub">Interactive dashboard for pharma sales managers — field rep performance, doctor engagement, effort-vs-output efficiency, target achievement, and call-outcome quality.</p>
+
+  <div class="viz-container">
+    <div class='tableauPlaceholder' id='viz1788341224776' style='position: relative'>
+      <noscript>
+        <a href='#'>
+          <img alt='Pharmacy Performance' src='https://public.tableau.com/static/images/Ph/PharmacyDashboard_5_17696851082490/PharmacyPerformance/1_rss.png' style='border: none' />
+        </a>
+      </noscript>
+      <object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='site_root' value='' />
+        <param name='name' value='PharmacyDashboard_5_17696851082490/PharmacyPerformance' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image' value='https://public.tableau.com/static/images/Ph/PharmacyDashboard_5_17696851082490/PharmacyPerformance/1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en-US' />
+      </object>
+    </div>
+  </div>
+
+  <p class="sub" style="margin-top:20px; font-size:0.85rem;">
+    Having trouble viewing the embed? Open it directly on
+    <a class="back" href="https://public.tableau.com/views/PharmacyDashboard_5_17696851082490/PharmacyPerformance" target="_blank" rel="noopener">Tableau Public</a>.
+  </p>
+</div>
+
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1788341224776');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+
+  function sizeViz() {
+    var w = divElement.offsetWidth;
+    // Tableau's original aspect ratio is roughly 1500 x 1827 (portrait dashboard)
+    var ratio = 1827 / 1500;
+    vizElement.style.width = '100%';
+    vizElement.style.height = Math.round(w * ratio) + 'px';
+  }
+  sizeViz();
+  window.addEventListener('resize', sizeViz);
+
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+</body>
+</html>
