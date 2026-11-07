@@ -167,6 +167,7 @@ Finance, Sales, Marketing, Supply Chain, and Executive views for a consumer-elec
 <br>
 <img alt="Tableau" src="https://img.shields.io/badge/Tableau-1A73E8?style=flat-square&logo=tableau&logoColor=white" />
 <img alt="Tableau Next" src="https://img.shields.io/badge/Tableau%20Next-1A73E8?style=flat-square&logo=salesforce&logoColor=white" />
+<img alt="Tableau Pulse" src="https://img.shields.io/badge/Tableau%20Pulse-1A73E8?style=flat-square&logo=tableau&logoColor=white" />
 <img alt="Salesforce Data Cloud" src="https://img.shields.io/badge/Salesforce%20Data%20Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
 <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 <img alt="DAX" src="https://img.shields.io/badge/DAX-000000?style=flat-square" />
@@ -256,7 +257,7 @@ Jun 2022 ── Dec 2023    SME → Product Analyst · TutorBin
 - **Snowflake + AWS S3:** loading raw files from S3 into Snowflake (external stages, `COPY INTO`, Snowpipe), with Tableau running on top of Snowflake
 - **Analytics engineering in depth:** dbt incremental models, snapshots (SCD2), contracts, and data-quality testing
 - **Tableau at scale:** semantic layers, extract vs. live trade-offs, and performance tuning on warehouse-backed data sources
-- **AI for analytics:** Tableau Next / agentic analytics, LLM applications and MCP servers over governed warehouse data
+- **AI for analytics:** building with the **Tableau MCP server** (Model Context Protocol) so an LLM can query published data sources and Pulse metrics, alongside Tableau Next agentic analytics
 
 <br>
 
