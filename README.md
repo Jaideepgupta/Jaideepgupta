@@ -28,7 +28,7 @@
 
 I'm a Tableau Developer with 4+ years building BI for **Healthcare, Real Estate, EdTech, and Enterprise** teams: **50+ dashboards** used by **40+ stakeholders**. Working on the reporting layer showed me that most problems in a dashboard start upstream, in ingestion, modeling, and data quality. So I've moved into engineering that upstream layer myself.
 
-My recent work is end to end: metadata-driven ingestion with ADF, medallion transforms on Databricks, a dbt Gold layer with tests in CI, Kafka + Structured Streaming with Airflow, and the Power BI / Tableau layer on top. I'm aiming for Analytics Engineering and Data Engineering roles where I can own the path from raw data to a number the business trusts.
+My recent work is end to end: metadata-driven ingestion with ADF, medallion transforms on Databricks, a dbt Gold layer with tests in CI, Kafka + Structured Streaming with Airflow, and the Power BI / Tableau layer on top. I'm looking for **Tableau Developer** and **Analytics Engineer** roles where I can own the path from raw data to a dashboard number the business trusts.
 
 <picture><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" /><img src="./assets/stats.svg" alt="4+ years in BI and analytics · 50+ dashboards shipped · 40+ stakeholders served · report generation cut from 8 to 3 minutes" width="100%" /></picture>
 
@@ -163,17 +163,6 @@ Finance, Sales, Marketing, Supply Chain, and Executive views for a consumer-elec
 
 <div align="center">
 
-**Data Engineering & Cloud**
-<br>
-<img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-<img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-<img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-<img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-<img alt="Azure Data Factory" src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft%20Fabric-117865?style=flat-square" />
-<img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-
 **BI & Visualization**
 <br>
 <img alt="Tableau" src="https://img.shields.io/badge/Tableau-1A73E8?style=flat-square&logo=tableau&logoColor=white" />
@@ -183,6 +172,16 @@ Finance, Sales, Marketing, Supply Chain, and Executive views for a consumer-elec
 <img alt="DAX" src="https://img.shields.io/badge/DAX-000000?style=flat-square" />
 <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 <img alt="Mixpanel" src="https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white" />
+
+**Analytics Engineering & Data Platforms**
+<br>
+<img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+<img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+<img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img alt="Azure Data Factory" src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft%20Fabric-117865?style=flat-square" />
 
 **Languages, Databases & Tooling**
 <br>
@@ -251,10 +250,10 @@ Jun 2022 ── Dec 2023    SME → Product Analyst · TutorBin
 
 ## 🌱 Current Focus <a id="focus"></a>
 
-- **Analytics engineering in depth:** dbt incremental models, snapshots (SCD2), contracts, and data-quality testing on Snowflake and Databricks
-- **Orchestration & CDC:** production-style Airflow DAGs, change data capture, and backfill/idempotency patterns
-- **AI engineering:** LLM applications, MCP servers, and agentic workflows over governed warehouse data
-- **AWS:** S3, Glue, and IAM fundamentals for cloud data platforms
+- **Snowflake + AWS S3:** loading raw files from S3 into Snowflake (external stages, `COPY INTO`, Snowpipe), with Tableau running on top of Snowflake
+- **Analytics engineering in depth:** dbt incremental models, snapshots (SCD2), contracts, and data-quality testing
+- **Tableau at scale:** semantic layers, extract vs. live trade-offs, and performance tuning on warehouse-backed data sources
+- **AI for analytics:** Tableau Next / agentic analytics, LLM applications and MCP servers over governed warehouse data
 
 <br>
 
@@ -284,7 +283,7 @@ Jun 2022 ── Dec 2023    SME → Product Analyst · TutorBin
 
 <div align="center">
 
-**Open to Analytics Engineering and Data Engineering roles.** Always happy to talk about Tableau, data modeling, or moving from BI into engineering.
+**Open to Tableau Developer and Analytics Engineer roles.** Always happy to talk about Tableau, data modeling, or moving from BI into engineering.
 <br>
 [LinkedIn](https://linkedin.com/in/guptajaideep) · [Email](mailto:jaideepg.jg@gmail.com)
 

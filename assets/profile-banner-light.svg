@@ -27,16 +27,16 @@
 <rect x="0.75" y="0.75" width="998.5" height="288.5" rx="15.5" fill="none" stroke="#d0d7de" stroke-width="1.5"/>
 <text x="48" y="72" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#59636e">Hi, I'm</text>
 <text x="48" y="114" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" fill="#1f2328">Jaideep Gupta</text>
-<text x="48" y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="600" fill="#1a7f37">Tableau Developer <tspan fill="#59636e">→</tspan> Analytics &amp; Data Engineering</text>
+<text x="48" y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="600" fill="#1a7f37">Tableau Developer <tspan fill="#59636e">·</tspan> Analytics Engineering</text>
 <text x="48" y="174" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#59636e">4+ years of BI · now building the pipelines that feed the dashboards.</text>
 
-<rect x="684" y="46" width="268" height="32" rx="16" fill="#1a7f37" fill-opacity="0.08" stroke="#1a7f37" stroke-opacity="0.6"/>
-<circle cx="704" cy="62" r="4.5" fill="#1a7f37"/>
-<circle cx="704" cy="62" r="4.5" fill="none" stroke="#1a7f37">
+<rect x="525" y="46" width="427" height="32" rx="16" fill="#1a7f37" fill-opacity="0.08" stroke="#1a7f37" stroke-opacity="0.6"/>
+<circle cx="545" cy="62" r="4.5" fill="#1a7f37"/>
+<circle cx="545" cy="62" r="4.5" fill="none" stroke="#1a7f37">
   <animate attributeName="r" values="4.5;10" dur="1.8s" repeatCount="indefinite"/>
   <animate attributeName="opacity" values="0.8;0" dur="1.8s" repeatCount="indefinite"/>
 </circle>
-<text x="718" y="67" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#1f2328">Open to Analytics / Data Eng roles</text>
+<text x="559" y="67" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#1f2328">Open to Tableau Developer &amp; Analytics Engineer roles</text>
 
 <path id="bannerflow" d="M58.0,232.0 L942.0,232.0" stroke="url(#flow)" stroke-width="2.5" stroke-dasharray="5 4" opacity="0.9" fill="none"/>
 <circle r="4" fill="#1a7f37"><animateMotion dur="6.0s" begin="0.00s" repeatCount="indefinite"><mpath href="#bannerflow" xlink:href="#bannerflow"/></animateMotion></circle>

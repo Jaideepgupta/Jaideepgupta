@@ -95,7 +95,8 @@ def banner() -> str:
         ("Gold", "dbt · tested", GOLD),
         ("Insight", "Tableau · Power BI", ACCENT),
     ]
-    pill_w = 268
+    pill_text = "Open to Tableau Developer &amp; Analytics Engineer roles"
+    pill_w = 48 + int(len(pill_text.replace("&amp;", "&")) * 7.3)
     pill_x = W - MARGIN - pill_w
     return f"""<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{W}" height="{h}" viewBox="0 0 {W} {h}" role="img" aria-labelledby="t d">
 <title id="t">Jaideep Gupta: Tableau Developer, Analytics &amp; Data Engineering</title>
@@ -104,7 +105,7 @@ def banner() -> str:
 {frame(h)}
 <text x="{MARGIN}" y="72" font-family="{FONT}" font-size="15" fill="{MUTED}">Hi, I'm</text>
 <text x="{MARGIN}" y="114" font-family="{FONT}" font-size="40" font-weight="800" fill="{TEXT}">Jaideep Gupta</text>
-<text x="{MARGIN}" y="146" font-family="{FONT}" font-size="19" font-weight="600" fill="{ACCENT}">Tableau Developer <tspan fill="{MUTED}">→</tspan> Analytics &amp; Data Engineering</text>
+<text x="{MARGIN}" y="146" font-family="{FONT}" font-size="19" font-weight="600" fill="{ACCENT}">Tableau Developer <tspan fill="{MUTED}">·</tspan> Analytics Engineering</text>
 <text x="{MARGIN}" y="174" font-family="{FONT}" font-size="14" fill="{MUTED}">4+ years of BI · now building the pipelines that feed the dashboards.</text>
 
 <rect x="{pill_x}" y="46" width="{pill_w}" height="32" rx="16" fill="{ACCENT}" fill-opacity="0.08" stroke="{ACCENT}" stroke-opacity="0.6"/>
@@ -113,7 +114,7 @@ def banner() -> str:
   <animate attributeName="r" values="4.5;10" dur="1.8s" repeatCount="indefinite"/>
   <animate attributeName="opacity" values="0.8;0" dur="1.8s" repeatCount="indefinite"/>
 </circle>
-<text x="{pill_x + 34}" y="67" font-family="{FONT}" font-size="13" font-weight="600" fill="{TEXT}">Open to Analytics / Data Eng roles</text>
+<text x="{pill_x + 34}" y="67" font-family="{FONT}" font-size="13" font-weight="600" fill="{TEXT}">{pill_text}</text>
 
 {pipeline(204, nodes, line_id="bannerflow")}
 </svg>
