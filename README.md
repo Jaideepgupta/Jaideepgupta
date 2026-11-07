@@ -150,7 +150,9 @@ Finance, Sales, Marketing, Supply Chain, and Executive views for a consumer-elec
 <br>
 
 - **[BRSR / ESG Data Story](https://jaideepgupta.github.io/brsr-esg-data-story/)**: an interactive walkthrough of ESG capability data for 99 companies, covering Spearman correlation with Holm correction, Poisson regression (IRR), robust SEs, and ANOVA.
-- **[E-commerce Lakehouse ML Pipeline](https://github.com/Jaideepgupta/ecommerce-lakehouse-ml-pipeline)**: Databricks Bronze/Silver/Gold feature pipeline feeding purchase-prediction and recommendation models.
+- **[Healthcare Data Platform](https://github.com/Jaideepgupta/Healthcare-Data-Platform)**: dbt on Databricks, modeling 10 raw hospital datasets into a tested star schema (2 facts, 5 dimensions, 20 data tests).
+- **[Data Journey](https://de-tutorials.vercel.app)**: an interactive Next.js app that teaches data engineering by following one order from OLTP to a dashboard.
+- **[E-commerce Lakehouse ML: Solution Design](https://github.com/Jaideepgupta/ecommerce-lakehouse-ml-pipeline)**: architecture and retraining strategy for a Databricks + MLflow purchase-propensity and recommendation pipeline.
 - **[AtliQ Hotels — Hospitality EDA](https://github.com/Jaideepgupta/hospitality-eda-atliq-hotels)**: Pandas analysis of occupancy, revenue, cancellations, and channel mix across four cities.
 - **[Sales & Finance Analytics](https://github.com/Jaideepgupta/Excel-Sales-Analytics)**: Excel / Power Query P&L across 15+ markets and 200+ customers.
 - **Reference notes:** [dbt cheatsheet](https://github.com/Jaideepgupta/dbt-cheatsheet) · [Tableau cheatsheet](https://github.com/Jaideepgupta/tableau-cheatsheet) · [SQL prep](https://github.com/Jaideepgupta/sql-prep)
