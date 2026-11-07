@@ -125,14 +125,14 @@ def stats() -> str:
     h = 116
     tiles = [
         ("4+ yrs", "BI &amp; analytics"),
-        ("50+", "dashboards shipped"),
-        ("40+", "stakeholders served"),
-        ("8 → 3 min", "report generation time"),
+        ("11", "client engagements"),
+        ("6+", "industries served"),
+        ("6", "Tableau Next POCs"),
     ]
     gap = 16
     tw = (W - gap * (len(tiles) - 1)) / len(tiles)
     out = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{W}" height="{h}" viewBox="0 0 {W} {h}" role="img" aria-label="4+ years in BI and analytics; 50+ dashboards shipped; 40+ stakeholders served; report generation cut from 8 to 3 minutes">',
+        f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{W}" height="{h}" viewBox="0 0 {W} {h}" role="img" aria-label="4+ years in BI and analytics; 11 client engagements; 6+ industries served; 6 Tableau Next POCs">',
         defs(),
     ]
     for i, (big, label) in enumerate(tiles):

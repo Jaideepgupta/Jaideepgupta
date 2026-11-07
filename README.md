@@ -3,7 +3,7 @@
 <picture><source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg" /><img src="./assets/profile-banner.svg" alt="Jaideep Gupta: Tableau Developer moving into Analytics & Data Engineering. Animated pipeline from sources through bronze, silver and gold layers to Tableau and Power BI." width="100%" /></picture>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=3ECF8E&center=true&vCenter=true&width=800&height=30&lines=4%2B+years+in+BI+%7C+50%2B+dashboards+shipped;Now+building+the+pipelines+behind+the+dashboards;ADF+%E2%86%92+Databricks+%E2%86%92+dbt+%E2%86%92+Power+BI+%7C+Kafka+%2B+Airflow" alt="4+ years in BI, 50+ dashboards shipped. Now building the pipelines behind the dashboards." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=3ECF8E&center=true&vCenter=true&width=800&height=30&lines=4%2B+years+in+BI+%7C+11+client+engagements;Now+building+the+pipelines+behind+the+dashboards;ADF+%E2%86%92+Databricks+%E2%86%92+dbt+%E2%86%92+Power+BI+%7C+Kafka+%2B+Airflow" alt="4+ years in BI, 11 client engagements. Now building the pipelines behind the dashboards." />
 </a>
 
 <br>
@@ -26,11 +26,11 @@
 
 ## 🧭 About <a id="about"></a>
 
-I'm a Tableau Developer with 4+ years building BI for **Healthcare, Real Estate, EdTech, and Enterprise** teams: **50+ dashboards** used by **40+ stakeholders**. Working on the reporting layer showed me that most problems in a dashboard start upstream, in ingestion, modeling, and data quality. So I've moved into engineering that upstream layer myself.
+I'm a Tableau Developer with 4+ years building BI for **Healthcare, Real Estate, EdTech, and Enterprise** teams, delivering Tableau and Tableau Next solutions across **11 client engagements** in **6+ industries**. Working on the reporting layer showed me that most problems in a dashboard start upstream, in ingestion, modeling, and data quality. So I've moved into engineering that upstream layer myself.
 
 My recent work is end to end: metadata-driven ingestion with ADF, medallion transforms on Databricks, a dbt Gold layer with tests in CI, Kafka + Structured Streaming with Airflow, and the Power BI / Tableau layer on top. I'm looking for **Tableau Developer** and **Analytics Engineer** roles where I can own the path from raw data to a dashboard number the business trusts.
 
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" /><img src="./assets/stats.svg" alt="4+ years in BI and analytics · 50+ dashboards shipped · 40+ stakeholders served · report generation cut from 8 to 3 minutes" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" /><img src="./assets/stats.svg" alt="4+ years in BI and analytics · 11 client engagements · 6+ industries · 6 Tableau Next POCs" width="100%" /></picture>
 
 <br>
 
@@ -211,10 +211,11 @@ Jun 2022 ── Dec 2023    SME → Product Analyst · TutorBin
 <summary><b>Tableau Developer</b> · Kloudrac Group &nbsp; <code>Aug 2025 – Present</code></summary>
 <br>
 
-- Developed 20+ Tableau dashboards across healthcare and real estate, used by 35+ business users
-- Built hospital CRM analytics (lead conversion, patient funnel, booking revenue, inventory) and pinpointed the funnel stage behind a **7% patient-conversion drop-off**
-- Cut report generation time from **8 min to 3 min** by reworking calculated fields, parameters, and dynamic filters
-- Delivered Tableau Next on Salesforce Data Cloud demos (agentic analytics, AI-driven insights), which contributed to **4 new client pitches**
+- Delivered Tableau analytics for **11 client engagements across 6+ industries** (healthcare, pharma, real estate, logistics, manufacturing, renewable energy), from requirements gathering to dashboard handover
+- Built a **5-page Tableau app** for an 8-hospital doctor-referral program (30K+ field visits, 3.8K referrals, 45+ reps), with drill-through from network to hospital to rep, parameters and month-on-month calculations
+- Standardized **6 program KPIs** with definitions documented inside the dashboard, so all 8 hospitals measured performance the same way
+- Built an executive revenue and inventory dashboard for a real-estate business, with quarter-on-quarter comparisons and 5-level sales-hierarchy filters across 15+ projects
+- Built **6 Tableau Next POCs** on Salesforce Data Cloud for manufacturing, real-estate and healthcare prospects, showing agentic analytics and AI-driven insights
 
 </details>
 
@@ -222,8 +223,9 @@ Jun 2022 ── Dec 2023    SME → Product Analyst · TutorBin
 <summary><b>Freelance Data Analyst</b> &nbsp; <code>Sep 2024 – Aug 2025</code></summary>
 <br>
 
-- Delivered 9 analytics projects across 4 industries using Tableau and Power BI
-- Trained 20+ professionals in SQL, Tableau, Power BI, and analytics workflows
+- Delivered analytics projects for clients in Tableau, Power BI, SQL and Excel, covering data cleaning, KPI design and dashboards
+- Built revenue, retention and lead-conversion dashboards that moved clients' recurring reporting from manual Excel files to interactive BI
+- Trained 50+ students and professionals in SQL, Tableau and Power BI
 
 </details>
 
@@ -231,8 +233,8 @@ Jun 2022 ── Dec 2023    SME → Product Analyst · TutorBin
 <summary><b>Associate Solution Leader</b> · Brane Enterprises &nbsp; <code>Jan 2024 – Sep 2024</code></summary>
 <br>
 
-- Cut reporting turnaround by **25%** with reusable SQL templates and a shared KPI framework across 3 departments
-- Led BI projects for 2 enterprise clients end-to-end
+- Delivered BI and reporting projects for enterprise stakeholders end to end, from requirements gathering to sign-off
+- Built reusable SQL templates and standardized KPI definitions so teams reported with consistent metric logic instead of separate spreadsheets
 
 </details>
 
@@ -240,9 +242,10 @@ Jun 2022 ── Dec 2023    SME → Product Analyst · TutorBin
 <summary><b>Subject Matter Expert → Product Analyst</b> · TutorBin &nbsp; <code>Jun 2022 – Dec 2023</code></summary>
 <br>
 
-- Found a **22% onboarding drop-off** through Mixpanel funnel analysis. The UX changes that followed lifted feature adoption by 15% and engagement by 17%
-- Built dashboards tracking DAU (12K+), 30-day retention, and conversion
-- Mentored 100+ students in analytics, SQL, and BI tools (92% satisfaction)
+- Analysed onboarding behaviour in Mixpanel and identified funnel drop-off points, giving the product team evidence to prioritise improvements
+- Built dashboards tracking DAU, 30-day retention, conversion and feature adoption for product and leadership
+- Ran funnel and cohort analyses to compare user groups and inform feature prioritisation
+- Mentored 50+ students and professionals in statistics, SQL, Power BI and Tableau; supervised interns
 
 </details>
 
