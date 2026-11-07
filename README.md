@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Jaideep Gupta: Tableau Developer moving into Analytics & Data Engineering. Animated pipeline from sources through bronze, silver and gold layers to Tableau and Power BI." width="100%" />
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg" /><img src="./assets/profile-banner.svg" alt="Jaideep Gupta: Tableau Developer moving into Analytics & Data Engineering. Animated pipeline from sources through bronze, silver and gold layers to Tableau and Power BI." width="100%" /></picture>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=3ECF8E&center=true&vCenter=true&width=800&height=30&lines=4%2B+years+in+BI+%7C+50%2B+dashboards+shipped;Now+building+the+pipelines+behind+the+dashboards;ADF+%E2%86%92+Databricks+%E2%86%92+dbt+%E2%86%92+Power+BI+%7C+Kafka+%2B+Airflow" alt="4+ years in BI, 50+ dashboards shipped. Now building the pipelines behind the dashboards." />
@@ -30,7 +30,7 @@ I'm a Tableau Developer with 4+ years building BI for **Healthcare, Real Estate,
 
 My recent work is end to end: metadata-driven ingestion with ADF, medallion transforms on Databricks, a dbt Gold layer with tests in CI, Kafka + Structured Streaming with Airflow, and the Power BI / Tableau layer on top. I'm aiming for Analytics Engineering and Data Engineering roles where I can own the path from raw data to a number the business trusts.
 
-<img src="./assets/stats.svg" alt="4+ years in BI and analytics · 50+ dashboards shipped · 40+ stakeholders served · report generation cut from 8 to 3 minutes" width="100%" />
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" /><img src="./assets/stats.svg" alt="4+ years in BI and analytics · 50+ dashboards shipped · 40+ stakeholders served · report generation cut from 8 to 3 minutes" width="100%" /></picture>
 
 <br>
 
@@ -44,7 +44,7 @@ My recent work is end to end: metadata-driven ingestion with ADF, medallion tran
 
 #### 🛒 AtliQ Commerce: End-to-End Data Platform (Batch + Real-Time)
 
-<a href="https://github.com/Jaideepgupta/AtliQ-Commerce-End-to-End-Capstone"><img src="./assets/atliq-architecture.svg" alt="AtliQ Commerce architecture. Batch: Azure SQL to ADF to Bronze on ADLS Gen2, Silver on Databricks, Gold in dbt, Power BI on Fabric. Streaming: Kafka to Structured Streaming bronze, silver and gold, run by Airflow." width="100%" /></a>
+<a href="https://github.com/Jaideepgupta/AtliQ-Commerce-End-to-End-Capstone"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/atliq-architecture-light.svg" /><img src="./assets/atliq-architecture.svg" alt="AtliQ Commerce architecture. Batch: Azure SQL to ADF to Bronze on ADLS Gen2, Silver on Databricks, Gold in dbt, Power BI on Fabric. Streaming: Kafka to Structured Streaming bronze, silver and gold, run by Airflow." width="100%" /></picture></a>
 
 <img alt="Azure Data Factory" src="https://img.shields.io/badge/Azure%20Data%20Factory-21262d?style=flat-square&logo=microsoftazure&logoColor=0078D4" />
 <img alt="Databricks" src="https://img.shields.io/badge/Databricks-21262d?style=flat-square&logo=databricks&logoColor=FF3621" />
@@ -205,7 +205,7 @@ Finance, Sales, Marketing, Supply Chain, and Executive views for a consumer-elec
 Aug 2025 ── Present     Tableau Developer · Kloudrac Group
 Sep 2024 ── Aug 2025    Freelance Data Analyst
 Jan 2024 ── Sep 2024    Associate Solution Leader · Brane Enterprises
-Jun 2022 ── Dec 2023    Product Analyst → SME · TutorBin
+Jun 2022 ── Dec 2023    SME → Product Analyst · TutorBin
 ```
 
 <details open>
@@ -238,7 +238,7 @@ Jun 2022 ── Dec 2023    Product Analyst → SME · TutorBin
 </details>
 
 <details>
-<summary><b>Product Analyst → Subject Matter Expert</b> · TutorBin &nbsp; <code>Jun 2022 – Dec 2023</code></summary>
+<summary><b>Subject Matter Expert → Product Analyst</b> · TutorBin &nbsp; <code>Jun 2022 – Dec 2023</code></summary>
 <br>
 
 - Found a **22% onboarding drop-off** through Mixpanel funnel analysis. The UX changes that followed lifted feature adoption by 15% and engagement by 17%

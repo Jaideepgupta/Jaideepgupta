@@ -8,7 +8,7 @@
     <stop offset="100%" stop-color="#3ecf8e" stop-opacity="0"/>
   </radialGradient>
   <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
-    <circle cx="1.5" cy="1.5" r="1" fill="#ffffff" fill-opacity="0.045"/>
+    <circle cx="1.5" cy="1.5" r="1" fill="#ffffff" fill-opacity="0.05"/>
   </pattern>
   <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="48" y1="0" x2="952" y2="0">
     <stop offset="0%" stop-color="#58a6ff"/>

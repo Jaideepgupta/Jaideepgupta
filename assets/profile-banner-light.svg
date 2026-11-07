@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-labelledby="t d">
+<title id="t">Jaideep Gupta: Tableau Developer, Analytics &amp; Data Engineering</title>
+<desc id="d">Animated data pipeline from sources through ingestion, bronze, silver and gold layers to Tableau and Power BI dashboards.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#f6f8fa"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="85%" cy="0%" r="60%">
+    <stop offset="0%" stop-color="#1a7f37" stop-opacity="0.18"/>
+    <stop offset="100%" stop-color="#1a7f37" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1" fill="#000000" fill-opacity="0.05"/>
+  </pattern>
+  <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="48" y1="0" x2="952" y2="0">
+    <stop offset="0%" stop-color="#58a6ff"/>
+    <stop offset="35%" stop-color="#cd7f32"/>
+    <stop offset="55%" stop-color="#c9d1d9"/>
+    <stop offset="75%" stop-color="#e3b341"/>
+    <stop offset="100%" stop-color="#1a7f37"/>
+  </linearGradient>
+  
+</defs>
+<rect width="1000" height="290" rx="16" fill="url(#bg)"/>
+<rect width="1000" height="290" rx="16" fill="url(#dots)"/>
+<rect width="1000" height="290" rx="16" fill="url(#glow)"/>
+<rect x="0.75" y="0.75" width="998.5" height="288.5" rx="15.5" fill="none" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="48" y="72" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#59636e">Hi, I'm</text>
+<text x="48" y="114" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" fill="#1f2328">Jaideep Gupta</text>
+<text x="48" y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="600" fill="#1a7f37">Tableau Developer <tspan fill="#59636e">→</tspan> Analytics &amp; Data Engineering</text>
+<text x="48" y="174" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#59636e">4+ years of BI · now building the pipelines that feed the dashboards.</text>
+
+<rect x="684" y="46" width="268" height="32" rx="16" fill="#1a7f37" fill-opacity="0.08" stroke="#1a7f37" stroke-opacity="0.6"/>
+<circle cx="704" cy="62" r="4.5" fill="#1a7f37"/>
+<circle cx="704" cy="62" r="4.5" fill="none" stroke="#1a7f37">
+  <animate attributeName="r" values="4.5;10" dur="1.8s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0.8;0" dur="1.8s" repeatCount="indefinite"/>
+</circle>
+<text x="718" y="67" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#1f2328">Open to Analytics / Data Eng roles</text>
+
+<path id="bannerflow" d="M58.0,232.0 L942.0,232.0" stroke="url(#flow)" stroke-width="2.5" stroke-dasharray="5 4" opacity="0.9" fill="none"/>
+<circle r="4" fill="#1a7f37"><animateMotion dur="6.0s" begin="0.00s" repeatCount="indefinite"><mpath href="#bannerflow" xlink:href="#bannerflow"/></animateMotion></circle>
+<circle r="4" fill="#1a7f37"><animateMotion dur="6.0s" begin="-2.00s" repeatCount="indefinite"><mpath href="#bannerflow" xlink:href="#bannerflow"/></animateMotion></circle>
+<circle r="4" fill="#1a7f37"><animateMotion dur="6.0s" begin="-4.00s" repeatCount="indefinite"><mpath href="#bannerflow" xlink:href="#bannerflow"/></animateMotion></circle>
+<rect x="48.0" y="204" width="118" height="56" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.5"/><text x="107.0" y="229.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#0969da" text-anchor="middle">Sources</text><text x="107.0" y="247.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">Azure SQL · CSV</text>
+<rect x="205.2" y="204" width="118" height="56" rx="10" fill="#ffffff" stroke="#8250df" stroke-width="1.5"/><text x="264.2" y="229.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#8250df" text-anchor="middle">Ingest</text><text x="264.2" y="247.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">ADF · Kafka</text>
+<rect x="362.4" y="204" width="118" height="56" rx="10" fill="#ffffff" stroke="#a0522d" stroke-width="1.5"/><text x="421.4" y="229.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#a0522d" text-anchor="middle">Bronze</text><text x="421.4" y="247.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">raw Delta</text>
+<rect x="519.6" y="204" width="118" height="56" rx="10" fill="#ffffff" stroke="#57606a" stroke-width="1.5"/><text x="578.6" y="229.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#57606a" text-anchor="middle">Silver</text><text x="578.6" y="247.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">Databricks · Spark</text>
+<rect x="676.8" y="204" width="118" height="56" rx="10" fill="#ffffff" stroke="#9a6700" stroke-width="1.5"/><text x="735.8" y="229.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#9a6700" text-anchor="middle">Gold</text><text x="735.8" y="247.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">dbt · tested</text>
+<rect x="834.0" y="204" width="118" height="56" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.5"/><text x="893.0" y="229.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#1a7f37" text-anchor="middle">Insight</text><text x="893.0" y="247.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">Tableau · Power BI</text>
+</svg>

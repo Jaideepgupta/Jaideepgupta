@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="400" viewBox="0 0 1000 400" role="img" aria-labelledby="t d">
+<title id="t">AtliQ Commerce architecture</title>
+<desc id="d">Batch lane: Azure SQL to Azure Data Factory to Bronze on ADLS Gen2, Silver on Databricks, Gold in dbt, served in Power BI on Microsoft Fabric. Streaming lane: Kafka producer and topic to Structured Streaming bronze, silver and gold, operated by Airflow. CI with GitHub Actions gated on dbt tests.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#f6f8fa"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="85%" cy="0%" r="60%">
+    <stop offset="0%" stop-color="#1a7f37" stop-opacity="0.18"/>
+    <stop offset="100%" stop-color="#1a7f37" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1" fill="#000000" fill-opacity="0.05"/>
+  </pattern>
+  <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="48" y1="0" x2="952" y2="0">
+    <stop offset="0%" stop-color="#58a6ff"/>
+    <stop offset="35%" stop-color="#cd7f32"/>
+    <stop offset="55%" stop-color="#c9d1d9"/>
+    <stop offset="75%" stop-color="#e3b341"/>
+    <stop offset="100%" stop-color="#1a7f37"/>
+  </linearGradient>
+  
+</defs>
+<rect width="1000" height="400" rx="16" fill="url(#bg)"/>
+<rect width="1000" height="400" rx="16" fill="url(#dots)"/>
+<rect width="1000" height="400" rx="16" fill="url(#glow)"/>
+<rect x="0.75" y="0.75" width="998.5" height="398.5" rx="15.5" fill="none" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="48" y="44" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2328">AtliQ Commerce <tspan fill="#59636e" font-weight="400">· end-to-end data platform</tspan></text>
+
+<text x="48" y="88" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#0969da">BATCH · nightly</text>
+<path id="batch" d="M58.0,128.0 L942.0,128.0" stroke="url(#flow)" stroke-width="2.5" stroke-dasharray="5 4" opacity="0.9" fill="none"/>
+<circle r="4" fill="#1a7f37"><animateMotion dur="7s" begin="0.00s" repeatCount="indefinite"><mpath href="#batch" xlink:href="#batch"/></animateMotion></circle>
+<circle r="4" fill="#1a7f37"><animateMotion dur="7s" begin="-2.33s" repeatCount="indefinite"><mpath href="#batch" xlink:href="#batch"/></animateMotion></circle>
+<circle r="4" fill="#1a7f37"><animateMotion dur="7s" begin="-4.67s" repeatCount="indefinite"><mpath href="#batch" xlink:href="#batch"/></animateMotion></circle>
+<rect x="48.0" y="100" width="118" height="56" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.5"/><text x="107.0" y="125.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#0969da" text-anchor="middle">Azure SQL</text><text x="107.0" y="143.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">OLTP · CSV</text>
+<rect x="205.2" y="100" width="118" height="56" rx="10" fill="#ffffff" stroke="#8250df" stroke-width="1.5"/><text x="264.2" y="125.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#8250df" text-anchor="middle">ADF</text><text x="264.2" y="143.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">metadata-driven</text>
+<rect x="362.4" y="100" width="118" height="56" rx="10" fill="#ffffff" stroke="#a0522d" stroke-width="1.5"/><text x="421.4" y="125.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#a0522d" text-anchor="middle">Bronze</text><text x="421.4" y="143.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">ADLS Gen2</text>
+<rect x="519.6" y="100" width="118" height="56" rx="10" fill="#ffffff" stroke="#57606a" stroke-width="1.5"/><text x="578.6" y="125.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#57606a" text-anchor="middle">Silver</text><text x="578.6" y="143.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">Spark MERGE</text>
+<rect x="676.8" y="100" width="118" height="56" rx="10" fill="#ffffff" stroke="#9a6700" stroke-width="1.5"/><text x="735.8" y="125.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#9a6700" text-anchor="middle">Gold</text><text x="735.8" y="143.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">dbt star schema</text>
+<rect x="834.0" y="100" width="118" height="56" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.5"/><text x="893.0" y="125.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#1a7f37" text-anchor="middle">Power BI</text><text x="893.0" y="143.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">Microsoft Fabric</text>
+
+<text x="48" y="208" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#1a7f37">STREAMING · real-time</text>
+<path id="stream" d="M58.0,248.0 L942.0,248.0" stroke="url(#flow)" stroke-width="2.5" stroke-dasharray="5 4" opacity="0.9" fill="none"/>
+<circle r="4" fill="#1a7f37"><animateMotion dur="3.5s" begin="0.00s" repeatCount="indefinite"><mpath href="#stream" xlink:href="#stream"/></animateMotion></circle>
+<circle r="4" fill="#1a7f37"><animateMotion dur="3.5s" begin="-0.88s" repeatCount="indefinite"><mpath href="#stream" xlink:href="#stream"/></animateMotion></circle>
+<circle r="4" fill="#1a7f37"><animateMotion dur="3.5s" begin="-1.75s" repeatCount="indefinite"><mpath href="#stream" xlink:href="#stream"/></animateMotion></circle>
+<circle r="4" fill="#1a7f37"><animateMotion dur="3.5s" begin="-2.62s" repeatCount="indefinite"><mpath href="#stream" xlink:href="#stream"/></animateMotion></circle>
+<rect x="48.0" y="220" width="118" height="56" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.5"/><text x="107.0" y="245.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#0969da" text-anchor="middle">Producer</text><text x="107.0" y="263.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">order events</text>
+<rect x="205.2" y="220" width="118" height="56" rx="10" fill="#ffffff" stroke="#8250df" stroke-width="1.5"/><text x="264.2" y="245.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#8250df" text-anchor="middle">Kafka</text><text x="264.2" y="263.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">topic</text>
+<rect x="362.4" y="220" width="118" height="56" rx="10" fill="#ffffff" stroke="#a0522d" stroke-width="1.5"/><text x="421.4" y="245.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#a0522d" text-anchor="middle">Bronze</text><text x="421.4" y="263.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">stream ingest</text>
+<rect x="519.6" y="220" width="118" height="56" rx="10" fill="#ffffff" stroke="#57606a" stroke-width="1.5"/><text x="578.6" y="245.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#57606a" text-anchor="middle">Silver</text><text x="578.6" y="263.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">watermark · dedup</text>
+<rect x="676.8" y="220" width="118" height="56" rx="10" fill="#ffffff" stroke="#9a6700" stroke-width="1.5"/><text x="735.8" y="245.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#9a6700" text-anchor="middle">Gold</text><text x="735.8" y="263.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">streaming aggs</text>
+<rect x="834.0" y="220" width="118" height="56" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.5"/><text x="893.0" y="245.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#1a7f37" text-anchor="middle">Airflow</text><text x="893.0" y="263.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#59636e" text-anchor="middle">DAG ops</text>
+
+<line x1="48" y1="306" x2="952" y2="306" stroke="#d0d7de"/>
+<rect x="48.0" y="330" width="136.7" height="28" rx="14" fill="#ffffff" stroke="#d0d7de"/><text x="116.3" y="348.5" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#1f2328" text-anchor="middle">GitHub Actions CI</text><rect x="194.7" y="330" width="186.4" height="28" rx="14" fill="#ffffff" stroke="#d0d7de"/><text x="287.9" y="348.5" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#1f2328" text-anchor="middle">13 dbt models · 18 tests</text><rect x="391.1" y="330" width="108.3" height="28" rx="14" fill="#ffffff" stroke="#d0d7de"/><text x="445.2" y="348.5" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#1f2328" text-anchor="middle">Unity Catalog</text><rect x="509.4" y="330" width="143.8" height="28" rx="14" fill="#ffffff" stroke="#d0d7de"/><text x="581.3" y="348.5" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#1f2328" text-anchor="middle">idempotent re-runs</text><rect x="663.2" y="330" width="172.2" height="28" rx="14" fill="#ffffff" stroke="#d0d7de"/><text x="749.3" y="348.5" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#1f2328" text-anchor="middle">revenue reconciliation</text>
+</svg>
